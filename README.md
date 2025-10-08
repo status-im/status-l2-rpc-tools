@@ -4,6 +4,8 @@
 
 Tooling to get you started in running your own RPC for [Status Network](https://status.network/).
 This repo contains genesis files as well as the setup script to get started.
+
+Good luck!
 <br/>
 <br/>
 <br/>
