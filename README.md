@@ -1,6 +1,6 @@
 # Status Network - RPC Tools
 
-<img align="left" alt="sn-team"  height="150" src=".github/assets/pampi.png">
+<img align="right" alt="sn-team"  height="150" src=".github/assets/pampi.png">
 
 Tooling to get you started in running your own RPC for [Status Network](https://status.network/).  
 This repo contains genesis files as well as the setup script to get started.
