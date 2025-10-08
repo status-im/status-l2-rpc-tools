@@ -3,6 +3,10 @@
 <img align="left" alt="sn-team"  height="150" src="./.github/assets/pampi-rpc.png">
 
 Tooling to get you started in running your own RPC for Status Network.
+<br/>
+<br/>
+<br/>
+<br/>
 
 # How to use it?
 1. Run `git clone https://github.com/status-im/status-l2-rpc-tools.git`
