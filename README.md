@@ -10,8 +10,6 @@ Good luck!
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 # How to use it?
 1. Run `git clone https://github.com/status-im/status-l2-rpc-tools.git`
