@@ -78,9 +78,9 @@ Then follow the instructions provided by the script output.
 If completed successfully, you will have three start options:
 
 ```bash
-docker compose up -d         # 🚀 Run both nodes"
-docker compose up geth -d    # 🟢 Run only Geth node"
-docker compose up besu -d    # 🔵 Run only Besu node"
+docker compose up -d         # 🚀 Run both nodes
+docker compose up geth -d    # 🟢 Run only Geth node
+docker compose up besu -d    # 🔵 Run only Besu node
 ```
 
 ### 7. Verify Your RPC Node
@@ -95,7 +95,7 @@ curl -X POST \
 ```
 
 - Use `8545` for Besu (http://localhost:8545)
-- Use `8645` for Geth (http://localhost:8645)
+- Use `8445` for Geth (http://localhost:8445)
 
 You should receive a response with a block number if your node is running properly.
 

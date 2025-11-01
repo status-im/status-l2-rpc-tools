@@ -110,7 +110,7 @@ services:
 
     ports:
       - "8445:8545"     # HTTP RPC (different port to avoid conflict with Besu)
-      - "8447:8546"     # WebSocket RPC (different port to avoid conflict with Besu)
+      - "8446:8546"     # WebSocket RPC (different port to avoid conflict with Besu)
       - "9100:9100"     # Metrics
 
     environment:
@@ -374,9 +374,10 @@ echo "   docker compose up geth -d    # 🟢 Run only Geth node"
 echo "   docker compose up besu -d    # 🔵 Run only Besu node"
 echo ""
 echo "🌐 Endpoints will be available at:"
-echo "   - Geth HTTP RPC: http://localhost:8645"
-echo "   - Geth WebSocket: ws://localhost:8646"
+echo "   - Geth HTTP RPC: http://localhost:8445"
+echo "   - Geth WebSocket: ws://localhost:8446"
 echo "   - Besu HTTP RPC: http://localhost:8545"
+echo "   - Besu WebSocket: ws://localhost:8546"
 echo ""
 echo "📊 To monitor:"
 echo "   docker compose logs -f"
