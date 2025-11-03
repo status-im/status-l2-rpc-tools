@@ -24,13 +24,11 @@ Before you begin, ensure you have the following:
 
 ### System Requirements
 
-Choose the node type that best fits your needs. If you need data further away in the history, you may need an archive node. 
-
 | Node Type      | Storage    | vCPU     | RAM        | Disk (Gen4 NVMe) | Network Connection    |
 |:-------------- |:---------- |:-------- |:---------- |:---------------- |:---------------------|
 | **Full Node**  | ~200 GB    | 8–12     | 32–48 GB   | 2 TB             | 1 Gbps               |
-| **Archive Node** | ~2 TB    | 16–24    | 64–96 GB   | 6–8 TB           | 1–10 Gbps            |
 
+> 📝 **Note:** Archive node support is an upcoming feature and will be available in a future release.
 
 ## Quick Start
 
