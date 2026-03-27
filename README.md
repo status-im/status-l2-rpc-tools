@@ -45,6 +45,7 @@ Find the Chain ID of the Status Network you wish to run the RPC node for in the 
 | Name                   | Chain ID   |
 | ---------------------- | ---------- |
 | Status Network Sepolia | 1660990954 |
+| Status Network Hoodi   | 374        |
 
 ### 3. Create a Directory for Your RPC Node 
 

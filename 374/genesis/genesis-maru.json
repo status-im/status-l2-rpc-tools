@@ -1,0 +1,11 @@
+{
+  "chainId": 374,
+  "config": {
+    "0": {
+      "type": "qbft",
+      "blockTimeSeconds": 2,
+      "validatorSet": ["0xc4492845b0B00592b51eB8784cE736d1024a674A"],
+      "elFork": "Osaka"
+    }
+  }
+}
